@@ -68,7 +68,7 @@ transversal de Mercator (UTM), pero esto no
 
 2
 
-Eduardo Barreto Campos, Ramon Martínez Bravo//Configuración de equipo.
+Eduardo Barreto Campos,  Ramon Martínez Bravo//Configuración de equipo.
 
 funcionó, ya que la librería utilizada no permite
 trabajar con UTM y estas se tuvieron que
