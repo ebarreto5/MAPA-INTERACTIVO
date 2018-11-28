@@ -1,9 +1,5 @@
 Resumen
-El contenido de este proyecto es la forma y las
-características del programa que desarrollaremos. Lo
-que se espera lograr en este proyecto es de poder
-mapear todas las coordenadas de los dispositivos de
-luminaria publica (Previamente ya obtenidas)
+El contenido de este proyecto es la forma y las características del programa que desarrollaremos. Lo que se espera lograr en este proyecto es de poder mapear todas las coordenadas de los dispositivos de luminaria publica (Previamente ya obtenidas)
 existentes en la cabecera municipal de Coquimatlán,
 así como las características que tiene cada una
 actualmente. El fin de este proyecto es la de generar
