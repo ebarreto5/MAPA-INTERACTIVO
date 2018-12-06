@@ -169,10 +169,7 @@ observación podemos decir que se pudo haber
 realizado con mayor facilidad de acuerdo con el
 tema de las coordenadas con las que trabaja la
 librería.
-Una meta no cumplida en este proyecto fue
-lograr diferenciar por colores las diferentes
-características con las que cuentan los
-dispositivos.
+Una meta no cumplida en este proyecto fue lograr fue leer el archivo y que automáticamente lograra poner de diferentes colores las lamparas según su funcionalidad, lo que se tuvo que hacer fue poner diferentes alturas a estas para lograr poner diferentes colores.
 Bibliografía.
 
 
